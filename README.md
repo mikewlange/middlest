@@ -7,3 +7,8 @@
 ╚═╝     ╚═╝╚═╝╚═════╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝   ╚═╝   
                                                                
                                                                </pre>
+https://repl.it/@mikewlange/pythoncallservice
+
+https://repl.it/@mikewlange/golangcallnodeservice
+
+https://repl.it/@mikewlange/nodecallservice
